@@ -159,6 +159,7 @@ function theme_colours() {
 		'menubg' => $colours[8],
 		'menut' => $colours[9],
 		'menua' => $colours[10],
+		'statusbg'=> $colours[11],
 	);
 }
 
@@ -186,7 +187,8 @@ color:#{$c->bodyt};margin:0;font:90% sans-serif}
 .status{display:block;word-wrap:break-word;}
 .shift{margin-left:30px;min-height:24px;}
 .from{font-size:0.75em;color:#{$c->small};font-family:serif;}
-.from a{color:#{$c->small};}
+.from a{color:#{$c->small};
+#status{background:#{$c->statusbg};}
 </style>";
 }
 

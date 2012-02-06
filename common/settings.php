@@ -8,12 +8,12 @@ Assembled in theme_css()
 */
 
 $GLOBALS['colour_schemes'] = array(
-	0 => '傲娇粉|c06,fcd,623,c8a,fee,fde,ffa,dd9,c06,fee,fee',
-	1 => '扎眼橙|b50,ddd,111,555,fff,eee,ffa,dd9,e81,c40,fff',
-	2 => '清新蓝|138,ddd,111,555,fff,eee,ffa,dd9,138,fff,fff',
-	3 => '鸭屎绿|293C03,ccc,000,555,fff,eee,CCE691,ACC671,495C23,919C35,fff',
-	4 => '阴暗紫|d5d,000,ddd,999,222,111,202,101,909,222,000,000',
-	5 => '猪血红|d12,ddd,111,555,fff,eee,ffa,dd9,c12,fff,fff',
+	1 => 'Ugly Orange|b50,ddd,111,555,fff,eee,ffa,dd9,e81,c40,fff,fff',
+	2 => 'Touch Blue|138,ddd,111,555,fff,eee,ffa,dd9,138,fff,fff,fff',
+	3 => 'Sickly Green|293C03,ccc,000,555,fff,eee,CCE691,ACC671,495C23,919C35,fff,fff',
+	4 => 'Kris\' Purple|d5d,000,ddd,999,222,111,202,101,909,222,000,000,fff',
+	5 => '#red|d12,ddd,111,555,fff,eee,ffa,dd9,c12,fff,fff,fff',
+	6 => '#night|aa6b80,141414,919390,555,141414,333,ffa,dd9,aa6b80,fff,fff,333',
 );
 
 menu_register(array(
